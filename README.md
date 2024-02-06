@@ -2,9 +2,9 @@ Current Situation:
 
 CRUD operations are functioning successfully on the backend.
 Testing CRUD operations using Postman is successful.
-Backend form functionalities are working properly.
+frontend forms functionalities are working properly.
 
 
 Problem Statement:
-Encountering issues specifically with the HTTP POST method.
+Encountering issues specifically with the HTTP methods.
 
