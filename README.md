@@ -1,6 +1,10 @@
-crud succsesfully work in backend side
-crude perform using postman work 
-backend form will be work properly
+Current Situation:
 
-problem : 
-facing problem with http post method 
+CRUD operations are functioning successfully on the backend.
+Testing CRUD operations using Postman is successful.
+Backend form functionalities are working properly.
+
+
+Problem Statement:
+Encountering issues specifically with the HTTP POST method.
+
